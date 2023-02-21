@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - a program that print a number in lowercase except the q and e letters
- * Return : 0
+ * Return: 0
  */
 int main(void)
 {
